@@ -47,3 +47,43 @@ h2{
     font-size: 20px;
     text-align: center;
 }
+
+#parte2{
+    display: flex;
+    margin-left: 3%;
+}
+
+#parte2 img{
+    width: 60%;
+    margin-left: 85px;
+}
+#parte2 p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#parte3{
+    display: flex;
+    margin-left: 3%;
+}
+
+#parte3 img{
+    width: 60%;
+    margin-left: 85px;
+}
+#parte3 p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    height: 40px;
+    background-color: tomato;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
