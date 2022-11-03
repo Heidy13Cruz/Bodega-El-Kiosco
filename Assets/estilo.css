@@ -1,0 +1,22 @@
+header{
+    background-color: tomato;
+}
+
+.kiosco{
+    display: flex;
+}
+
+.lista{
+    display: flex;
+    justify-content:center;
+}
+
+header img{
+    width: 70px;
+
+}
+
+header li{
+    margin-left: 40px;
+    list-style: none;
+}
