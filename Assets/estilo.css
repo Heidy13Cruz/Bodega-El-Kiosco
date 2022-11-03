@@ -20,3 +20,30 @@ header li{
     margin-left: 40px;
     list-style: none;
 }
+
+h1{
+    text-align: center;
+    color:gray ;
+    font-size: 40px;
+}
+
+h2{
+    color: gray;
+    margin-left: 6%;
+}
+
+#parte1{
+    display: flex;
+    margin-left: 3%;
+}
+
+#parte1 img{
+    width: 60%;
+    margin-left: 85px;
+}
+#parte1 p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
