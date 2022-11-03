@@ -35,6 +35,7 @@ h2{
 #parte1{
     display: flex;
     margin-left: 3%;
+    margin-bottom: 2%;
 }
 
 #parte1 img{
@@ -46,11 +47,13 @@ h2{
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+    
 }
 
 #parte2{
     display: flex;
     margin-left: 3%;
+    margin-bottom: 2%;
 }
 
 #parte2 img{
@@ -67,6 +70,7 @@ h2{
 #parte3{
     display: flex;
     margin-left: 3%;
+    margin-bottom: 2%;
 }
 
 #parte3 img{
@@ -86,4 +90,8 @@ footer{
     text-align: center;
     font-weight: bold;
     margin-top: 5px;
+}
+
+footer p{
+    padding-top: 1%;
 }
