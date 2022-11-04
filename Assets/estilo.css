@@ -98,3 +98,11 @@ footer p{
 summary {
     list-style: none;
  }
+
+details{
+    width: 100%;
+}
+
+fieldset{
+    width: 100%;
+}
