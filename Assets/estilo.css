@@ -95,6 +95,6 @@ footer{
 footer p{
     padding-top: 1%;
 }
- details{
+summary {
     list-style: none;
  }
